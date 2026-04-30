@@ -1,0 +1,6 @@
+{
+  "name": "NeonSnake & Sync",
+  "description": "A cyberpunk-themed Snake game combined with a neon aesthetic music player. Play the classic game while listening to AI-generated dummy tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
